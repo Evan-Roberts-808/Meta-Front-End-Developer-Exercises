@@ -3,4 +3,4 @@ A collection of all the exercises I've completed over this certification course
 
 # Proof of Completion
 
-<img src="./Meta-Front-End-Developer-Cert.pdf" width=800>
+<img src="./meta-front-end-developer-cert.png" width=800>
